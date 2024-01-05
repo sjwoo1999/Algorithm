@@ -16,3 +16,5 @@ function solution(s) {
     
     return answer;
 }
+
+// 코드가 많이 별로인데 일단 넘어가고 나중에 보완하자
